@@ -40,7 +40,7 @@ My research interest includes **Smart Cockpit**(domestic large computing chips s
 **Chenyu Zhu**, Junqi Xu, Cong Qian, Xinyu Yang, Ruoxi Sun
 
 [**Project**](https://github.com/ZhuChyu-Sebastian)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- This project's code has not been open-sourced yet.
 
 </div>
 </div> 
