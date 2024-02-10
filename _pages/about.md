@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt_separator: <!--more-->
 author_profile: true
 redirect_from: 
   - /about/
