@@ -48,7 +48,7 @@ My research interest includes **Smart Cockpit**(domestic large computing chips s
 
 # Small Projects
 - [**社交软件刷屏**](https://github.com/ZhuChyu-Sebastian/Wechat_flooder)
-- [**自制图片墙**](https://github.com/ZhuChyu-Sebastian/Photo_Wall))
+- [**自制图片墙**](https://github.com/ZhuChyu-Sebastian/Photo_Wall)
 
 # 🎖 Honors and Awards
 - *2024.1* 奖学金 
